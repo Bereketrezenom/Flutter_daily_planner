@@ -1,16 +1,8 @@
-# todo
+Daily Flutter Planner
+A Flutter-based Daily Planner App designed to help users organize their day efficiently with features like task scheduling, reminders, and progress tracking.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+🗓️ Task Management: Create, edit, and delete daily tasks.
+⏰ Reminders: Set reminders to stay on track.
+📊 Progress Tracker: View task completion stats.
+🎨 Customizable Themes: Switch between light and dark modes.
